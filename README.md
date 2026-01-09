@@ -31,3 +31,5 @@ id : User1
 pw : user123
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/c49cda0b-f21b-4a56-96da-214156781aab" />
 
+## berikut adalah tampilan `home`
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/fd9f0dab-92a8-486a-9f82-2fc66acf13f3" />
