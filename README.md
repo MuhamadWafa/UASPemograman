@@ -6,7 +6,7 @@
 # PemogramanWeb1
 
 ### Berikut Daftar Struktur
-`
+```
 band_deathpit/
 ├── config/
 │   └── Database.php      (Koneksi database OOP)
@@ -20,4 +20,4 @@ band_deathpit/
 │   └── user/             (Halaman khusus User)
 ├── .htaccess             (Untuk Routing App)
 └── index.php             (Controller Utama/Entry Point)
-`
+```
