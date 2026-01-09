@@ -39,3 +39,10 @@ pw : user123
 
 ## berikut adalah tampilan `Pembayaran`
 <img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/c3868109-c14e-489c-896d-affab147fda1" />
+
+## Berikut adalah Tampilan `Riwayat`
+<img width="1919" height="682" alt="image" src="https://github.com/user-attachments/assets/d2fdba85-fe7c-4216-b7bb-5ad1d55614bc" />
+
+## Berikut adalah tampilan `tambah studio`
+<img width="1911" height="953" alt="image" src="https://github.com/user-attachments/assets/0120e046-ab5f-46da-8192-6784de62c4a8" />
+
