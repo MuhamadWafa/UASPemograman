@@ -33,3 +33,9 @@ pw : user123
 
 ## berikut adalah tampilan `home`
 <img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/fd9f0dab-92a8-486a-9f82-2fc66acf13f3" />
+
+## Berikut adalah tampilan `booking`
+<img width="1919" height="840" alt="image" src="https://github.com/user-attachments/assets/4b6ab61b-eff7-4b21-9317-7782b986d32f" />
+
+## berikut adalah tampilan `Pembayaran`
+<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/c3868109-c14e-489c-896d-affab147fda1" />
